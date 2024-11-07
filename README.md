@@ -39,11 +39,14 @@ Modificando frutas:
 <img width="712" alt="Gerenciador de frutas 2" src="https://github.com/user-attachments/assets/c592af16-e2b4-4a43-9905-d3ce0245c84d">
 
 
+
 Removendo frutas:
+
 <img width="707" alt="Gerenciador de frutas 3" src="https://github.com/user-attachments/assets/7b162203-1af3-467e-bcce-34ea19fc7203">
 
 
 Listando frutas:
+
 <img width="705" alt="Gerenciador de frutas 4" src="https://github.com/user-attachments/assets/add45796-c741-47a1-8533-07e3e1f151b0">
 
 📌 Versão
