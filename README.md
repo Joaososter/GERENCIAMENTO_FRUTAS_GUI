@@ -53,7 +53,7 @@ Listando frutas:
 
 Versão 1.0 Implementacao Inicial 
 
-✒️ Autores Joao Soster - Trabalho Inicial - programação orientada a o
+✒️ Autores Joao Soster - Trabalho Inicial - programação orientada a objetos 
 
 
 
